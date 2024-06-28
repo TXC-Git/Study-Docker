@@ -13,6 +13,8 @@ CONTAINER ID   IMAGE     COMMAND                  CREATED         STATUS        
 bfd17651701a   nginx     "/docker-entrypoint.…"   5 seconds ago   Up 4 seconds   0.0.0.0:443->80/tcp, :::443->80/tcp   nginx02
 
 [root@lavm-lboagvwm5z ~]# curl localhost:443
+```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,6 +38,5 @@ Commercial support is available at
 <p><em>Thank you for using nginx.</em></p>
 </body>
 </html>
-
 ```
 
