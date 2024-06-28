@@ -1,4 +1,4 @@
-```shell
+```bash
 #1、搜索镜像 search
 #2、下载镜像 pull
 #3、运行测试 images
